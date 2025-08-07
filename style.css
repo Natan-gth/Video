@@ -1,5 +1,16 @@
 body {
     color: black; /* cor do texto */
     background: white; /* cor da página */
+    align-items: center;
+    display: flex;
+
+}
+
+.caixa {
+
+ background: black;
+ align-items: center;
+ display: flex;
+
 
 }
