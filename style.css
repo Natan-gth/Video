@@ -9,10 +9,11 @@ body {
 
 
 .caixa {
-
- background: black;
- align-items: center;
- display: flex;
-
-
+  background: black;
+  color: white;                 /* garante contraste do texto */
+  display: flex;
+  align-items: center;
+  padding: 3px;              
+  border-radius: 10px;        
+  box-sizing: border-box;      
 }
